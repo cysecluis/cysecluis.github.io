@@ -27,7 +27,7 @@ twitter_username: sket1roc
 github_username: cysecluis
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
