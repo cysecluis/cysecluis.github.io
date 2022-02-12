@@ -24,7 +24,7 @@ description: Cyber Junkie
 
 baseurl: /about/  # the subpath of your site, e.g. /blog
 url: https://cysecluis.github.io 
-twitter_username: sket1roc
+twitter_username: @sket1roc
 github_username: cysecluis
 
 # Build settings
