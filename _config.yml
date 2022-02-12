@@ -31,7 +31,7 @@ url: https://cysecluis.github.io # the base hostname & protocol for your site, e
 github_username:  cysecluis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
