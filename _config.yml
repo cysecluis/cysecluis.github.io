@@ -22,10 +22,10 @@ title: CySec Luis
 email: luis@cysecluis.com
 description: I **love** all things cyber including tech. I have a variety of videos, and my goal is to collaborate with all you wonderful people. I'll provide tutorials covering pen testing, CTF walkthroughs, and various topics, to include malware analysis and current events.  Find me at my YouTube channel [CySec Luis](https://www.youtube.com/channel/UCdvWgSUVHaA1-BblHXFTMYQ).
 
-baseurl: cysecluis.github.io # the subpath of your site, e.g. /blog
+#baseurl:  # the subpath of your site, e.g. /blog
 url: https://cysecluis.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  cysecluis
+github_username: cysecluis
 
 # Build settings
 theme: jekyll-theme-minimal
