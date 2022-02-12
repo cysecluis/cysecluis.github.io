@@ -25,13 +25,13 @@ I **love** all things cyber including tech. I have a variety of videos, and my g
 
 Find me at my YouTube channel [CySec Luis](https://www.youtube.com/channel/UCdvWgSUVHaA1-BblHXFTMYQ).
 
-#baseurl: /REPOSITORY-NAME/ # the subpath of your site, e.g. /blog
+baseurl: cysecluis.github.io # the subpath of your site, e.g. /blog
 url: https://cysecluis.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  cysecluis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
