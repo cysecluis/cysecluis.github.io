@@ -21,14 +21,13 @@
 title: CySec Luis
 email: luis@cysecluis.com
 description: Cyber Junkie
-
-baseurl: /about/  # the subpath of your site, e.g. /blog
-url: https://cysecluis.github.io 
-twitter_username: @sket1roc
+#baseurl: /REPOSITORY-NAME/ # the subpath of your site, e.g. /blog
+url: https://cysecluis.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sket1roc
 github_username: cysecluis
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
